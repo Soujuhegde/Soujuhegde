@@ -49,19 +49,18 @@ AI-powered platform designed to help users with career guidance, resume building
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
+# 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Soujuhegde&show_icons=true&bg_color=151515&title_color=ff6a00&text_color=ffffff&icon_color=ff3c38&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Soujuhegde&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=Soujuhegde&background=151515&ring=ff6a00&fire=ff3c38&currStreakNum=ffffff&currStreakLabel=ff6a00&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Soujuhegde&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soujuhegde&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soujuhegde&bg_color=151515&title_color=ff6a00&text_color=ffffff&hide_border=true&layout=compact)
 
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&bg_color=000000&color=ff6a00&line=ff3c38&point=ff6a00&area=true&hide_border=true)
 
 ## 🐍 Contribution Snake
 
