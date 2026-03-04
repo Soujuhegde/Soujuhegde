@@ -63,5 +63,9 @@ AI-powered platform designed to help users with career guidance, resume building
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&theme=tokyo-night)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Soujuhegde/Soujuhegde/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ⭐ Thanks for visiting my profile!
