@@ -23,7 +23,7 @@ Outside of coding, I’m always curious about how technology can simplify comple
 
 ## 🚀 Featured Project
 
-### CareerPilot – AI Career Platform
+### CareerPilot – AI Career Powered Platform
 AI-powered platform designed to help users with career guidance, resume building, and interview preparation using modern AI technologies.
 
 
