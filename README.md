@@ -1,18 +1,25 @@
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
-<h3 align="center">Software Developer | AI Builder</h3>
+<h3 align="center">Python · Machine Learning · AI · Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Application+Builder;Open+Source+Learner;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+AI+%26+Machine+Learning;Turning+Data+into+Decisions;Open+Source+Learner;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 
 ## 💫 About Me
 
-Hi! I'm **Soujanya**, a developer who enjoys building intelligent and meaningful digital products. I’m currently working on **CareerPilot**, an AI-powered platform designed to help people navigate their career journey more effectively.
+Hi! I'm **Soujanya**, passionate about turning raw data into meaningful insights and building intelligent applications. My work spans **machine learning, data analysis, and integrating AI into real-world solutions**.
 
-I enjoy exploring modern web technologies and integrating AI into practical applications that solve real-world problems. My work mainly focuses on **full stack development, scalable backend systems, and building user-focused tools**.
+I enjoy working across the full data pipeline — from exploratory analysis and model building to serving predictions through production APIs. I'm always exploring new techniques in ML and AI to sharpen my skills and take on new challenges.
 
-Outside of coding, I’m always curious about how technology can simplify complex decisions and create better experiences for people. For me, development is not just about writing code — it’s about building tools that actually make a difference.
+Outside of coding, I'm always curious about how data can simplify complex decisions and create smarter experiences for people. For me, it's not just about building models — it's about building things that actually matter.
+
+## 🧠 What I Do
+
+- 🤖 Build ML models for classification, recommendation & NLP tasks  
+- 📊 Analyze datasets to uncover actionable insights using Python & SQL  
+- 🚀 Deploy AI models into production applications via FastAPI  
+- 🌱 Currently exploring new DS & AI projects  
 
 
 ## 🌐 Connect With Me
@@ -21,17 +28,22 @@ Outside of coding, I’m always curious about how technology can simplify comple
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spsoujanya02@gmail.com)
 
 
-## 🚀 Featured Project
-
-### CareerPilot – AI Career Powered Platform
-AI-powered platform designed to help users with career guidance, resume building, and interview preparation using modern AI technologies.
-
-
 ## 💻 Tech Stack
 
+**Data Science & AI**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+
+**Web & Backend**
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
@@ -39,13 +51,14 @@ AI-powered platform designed to help users with career guidance, resume building
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+
+**Databases & Tools**
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
