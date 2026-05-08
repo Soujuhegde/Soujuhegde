@@ -25,7 +25,7 @@ Outside of coding, I'm always curious about how data can simplify complex decisi
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soujanya-sp-995a92296)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spsoujanya02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soujanyasp27@gmail.com)
 
 
 ## 💻 Tech Stack
