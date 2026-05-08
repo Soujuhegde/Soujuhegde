@@ -1,66 +1,88 @@
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
-<h3 align="center">Python · Machine Learning · AI · Data Science</h3>
+<h3 align="center">Python · Machine Learning · Generative AI · Multi-Agent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+AI+%26+Machine+Learning;Turning+Data+into+Decisions;Open+Source+Learner;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%26+Generative+AI;Multi-Agent+Systems+Builder;Turning+Data+into+Decisions;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 
 ## 💫 About Me
 
-Hi! I'm **Soujanya**, passionate about turning raw data into meaningful insights and building intelligent applications. My work spans **machine learning, data analysis, and integrating AI into real-world solutions**.
+Hi! I'm **Soujanya**, a Data Science enthusiast specializing in **Generative AI and multi-agent systems**. I have hands-on experience building end-to-end machine learning models, agentic AI systems, and data pipelines — from data preprocessing and feature engineering to model evaluation and deployment.
 
-I enjoy working across the full data pipeline — from exploratory analysis and model building to serving predictions through production APIs. I'm always exploring new techniques in ML and AI to sharpen my skills and take on new challenges.
+I enjoy extracting actionable insights from complex datasets and building intelligent solutions that deliver real-world impact. I've worked across internships in Data Science, Machine Learning, and Backend Engineering, giving me a solid foundation across the full AI/ML lifecycle.
 
-Outside of coding, I'm always curious about how data can simplify complex decisions and create smarter experiences for people. For me, it's not just about building models — it's about building things that actually matter.
+For me, it's not just about building models — it's about building things that actually matter.
 
 ## 🧠 What I Do
 
-- 🤖 Build ML models for classification, recommendation & NLP tasks  
-- 📊 Analyze datasets to uncover actionable insights using Python & SQL  
-- 🚀 Deploy AI models into production applications via FastAPI  
-- 🌱 Currently exploring new DS & AI projects  
+- 🤖 Build & deploy ML models — classification, recommendation & similarity-based systems
+- 🧬 Design **multi-agent AI systems** with LLM orchestration, RAG & agentic pipelines
+- 🎙️ Build **GenAI-powered applications** — voice assistants, quiz generators & intelligent tools
+- 📊 Perform EDA & statistical analysis to extract insights from real-world datasets
+- 🚀 Serve AI models via **FastAPI** & build interactive dashboards with **Streamlit**
+
+
+## 🚀 Featured Projects
+
+### 🎙️ AI Voice Assistant — Agentic Hospital Management System
+> VAPI · FastAPI · Pandas · SQLite · Streamlit · Agentic Design
+
+End-to-end agentic voice assistant that converts speech into structured database records, automating hospital appointment management and **reducing manual data entry by ~70%**. Includes auto-generated Excel reporting and a real-time Streamlit dashboard for doctor availability and appointment trends.
+
+---
+
+### 🧮 Self-Validating Quant Word-Problem Generator
+> Python · Multi-Agent AI · LLM Orchestration · Prompt Engineering
+
+Production-style multi-agent AI system with dedicated research, generation, dual-solver, and orchestration agents. Implements hallucination rejection logic and mathematical correctness verification — **zero manual review needed** across 100% of generated quiz sets.
+
+---
+
+### 🎬 Movie Recommendation System
+> Python · Scikit-learn · KNN · Streamlit
+
+Personalized movie recommendation engine using K-Nearest Neighbors. Features a modular, production-style codebase with an interactive Streamlit UI and full data cleaning & feature engineering pipeline.
 
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soujanya-sp-995a92296)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soujanyasp27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spsoujanya02@gmail.com)
 
 
 ## 💻 Tech Stack
 
-**Data Science & AI**
+**Data Science & ML**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
-**Web & Backend**
+**Generative AI & Agentic Systems**
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+
+**Deployment & Tools**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
-**Databases & Tools**
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 
 # 📊 GitHub Stats
 
