@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
-<h3 align="center">Python · Machine Learning · Generative AI · Multi-Agent Systems</h3>
+<h3 align="center">Python · Data Science · Generative AI · Multi-Agent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%26+Generative+AI;Multi-Agent+Systems+Builder;Turning+Data+into+Decisions;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+Generative+AI;Multi-Agent+Systems+Builder;Turning+Data+into+Decisions;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 
