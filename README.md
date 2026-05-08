@@ -84,13 +84,7 @@ Personalized movie recommendation engine using K-Nearest Neighbors. Features a m
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Soujuhegde&show_icons=true&bg_color=151515&title_color=ff6a00&text_color=ffffff&icon_color=ff3c38&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=Soujuhegde&background=151515&ring=ff6a00&fire=ff3c38&currStreakNum=ffffff&currStreakLabel=ff6a00&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soujuhegde&bg_color=151515&title_color=ff6a00&text_color=ffffff&hide_border=true&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Soujuhegde&theme=onedark&no-frame=true&row=1)
 
 
 ## 📈 Contribution Graph
