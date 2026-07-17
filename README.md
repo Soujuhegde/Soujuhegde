@@ -51,43 +51,41 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spsoujanya02@gmail.com)
 
 
-## Tech Stack
+## 💻 Tech Stack
 
-### 🤖 AI & Generative AI
+### 🤖 AI Engineering & LLMs
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
 ![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-2563EB?style=for-the-badge)
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-E11D48?style=for-the-badge)
+![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-0EA5E9?style=for-the-badge)
 
-### 💻 Backend & Development
+### ⚙️ Backend & APIs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST%20API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Database, Cloud & Tools
+### ☁️ Databases, Cloud & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Soujuhegde&theme=onedark&no-frame=true&row=1)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&bg_color=0d1117&color=ffb347&line=ff8c00&point=ff6a00&area=true&hide_border=true)
 
 ## 🐍 Contribution Snake
 
