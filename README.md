@@ -45,12 +45,6 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 🔗 [Repository](https://github.com/Soujuhegde/AI_VOICE_ASSITANT.git)
 
 
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soujanya-sp-995a92296)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spsoujanya02@gmail.com)
-
-
 ## 💻 Tech Stack
 
 ### 🤖 AI Engineering & LLMs
@@ -90,6 +84,18 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Soujuhegde/Soujuhegde/blob/output/github-contribution-grid-snake-dark.svg)
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/soujanya-sp-995a92296" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedln/0A66C2" alt="LinkedIn" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:spsoujanya02@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32"/>
+  </a>
+</p>
 
 
 ⭐ Thanks for visiting my profile!
