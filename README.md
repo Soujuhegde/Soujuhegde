@@ -3,87 +3,84 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+Generative+AI;Multi-Agent+Systems+Builder;Turning+Data+into+Decisions;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=BFE279&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Building+Production-Ready+LLM+Applications;Multi-Agent+Systems+%7C+RAG+%7C+FastAPI;Always+Learning.+Always+Building."/>
 </p>
 
+## About Me 
 
-## 💫 About Me
+Hi, I'm **Soujanya** — an AI Developer with hands-on experience building intelligent applications using Generative AI, Agentic AI, and Large Language Models (LLMs).
 
-Hi! I'm **Soujanya**, a Data Science enthusiast specializing in **Generative AI and multi-agent systems**. I have hands-on experience building end-to-end machine learning models, agentic AI systems, and data pipelines — from data preprocessing and feature engineering to model evaluation and deployment.
+I recently completed my Master of Computer Applications (MCA) and currently work as an AI Developer Intern at Workfall, where I design and develop AI-powered automation solutions using Python, LangChain, LangGraph, FastAPI, and modern AI frameworks.
 
-I enjoy extracting actionable insights from complex datasets and building intelligent solutions that deliver real-world impact. I've worked across internships in Data Science, Machine Learning, and Backend Engineering, giving me a solid foundation across the full AI/ML lifecycle.
+My experience spans multi-agent systems, Retrieval-Augmented Generation (RAG) pipelines, AI workflow automation, and scalable backend services. I enjoy solving real-world problems by designing reliable AI applications that go beyond traditional chatbots.
 
-For me, it's not just about building models — it's about building things that actually matter.
+I'm particularly interested in LLM application development, AI Agents, Multi-Agent Architectures, AI Workflow Orchestration, Backend Engineering, and Production AI Systems, and I continuously explore emerging technologies within the AI ecosystem.
 
-## 🧠 What I Do
+## Featured Projects
 
-- 🤖 Build & deploy ML models — classification, recommendation & similarity-based systems
-- 🧬 Design **multi-agent AI systems** with LLM orchestration, RAG & agentic pipelines
-- 🎙️ Build **GenAI-powered applications** — voice assistants, quiz generators & intelligent tools
-- 📊 Perform EDA & statistical analysis to extract insights from real-world datasets
-- 🚀 Serve AI models via **FastAPI** & build interactive dashboards with **Streamlit**
+### Multi-Agent AI Research & Report Generation Platform
 
+Production-ready multi-agent AI platform that automates research, planning, report generation, and validation using specialized AI agents. Built with LangGraph, FastAPI, and modern LLM frameworks to deliver structured, citation-backed reports.
 
-## 🚀 Featured Projects
+**Tech Stack:** Python • LangGraph • LangChain • FastAPI • Streamlit • OpenAI
 
-### 🎙️ AI Voice Assistant — Agentic Hospital Management System
-> VAPI · FastAPI · Pandas · SQLite · Streamlit · Agentic Design
-
-End-to-end agentic voice assistant that converts speech into structured database records, automating hospital appointment management and **reducing manual data entry by ~70%**. Includes auto-generated Excel reporting and a real-time Streamlit dashboard for doctor availability and appointment trends.
-
----
-
-### 🧮 Self-Validating Quant Word-Problem Generator
-> Python · Multi-Agent AI · LLM Orchestration · Prompt Engineering
-
-Production-style multi-agent AI system with dedicated research, generation, dual-solver, and orchestration agents. Implements hallucination rejection logic and mathematical correctness verification — **zero manual review needed** across 100% of generated quiz sets.
-
----
-
-### 🎬 Movie Recommendation System
-> Python · Scikit-learn · KNN · Streamlit
-
-Personalized movie recommendation engine using K-Nearest Neighbors. Features a modular, production-style codebase with an interactive Streamlit UI and full data cleaning & feature engineering pipeline.
+🔗 **Repository** | 📄 **Documentation** | 🎥 **Demo**
 
 
-## 🌐 Connect With Me
+### Self-Validating Quantitative Problem Generator
+
+Multi-agent AI application that generates quantitative aptitude questions and validates every solution through independent verification agents, improving reliability and reducing hallucinations in generated content.
+
+**Tech Stack:** Python • LangGraph • OpenAI • Prompt Engineering
+
+🔗 **Repository** | 📄 **Documentation** | 🎥 **Demo**
+
+
+### AI Voice Assistant for Hospital Appointment Management
+
+Voice-enabled AI assistant that automates hospital appointment scheduling through natural conversations, manages patient records, and provides real-time operational dashboards using FastAPI and Streamlit.
+
+**Tech Stack:** Python • VAPI • FastAPI • SQLite • Streamlit
+
+🔗 **Repository** | 📄 **Documentation** | 🎥 **Demo**
+
+
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soujanya-sp-995a92296)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spsoujanya02@gmail.com)
 
 
-## 💻 Tech Stack
+## Tech Stack
 
-**Data Science & ML**
+### 🤖 AI & Generative AI
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
+![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-E11D48?style=for-the-badge)
 
-**Generative AI & Agentic Systems**
+### 💻 Backend & Development
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 
-**Deployment & Tools**
+### 🛠️ Database, Cloud & Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Soujuhegde&theme=onedark&no-frame=true&row=1)
 
