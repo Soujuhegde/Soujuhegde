@@ -87,7 +87,7 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&bg_color=000000&color=ff6a00&line=ff3c38&point=ff6a00&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&theme=react-dark)
 
 ## 🐍 Contribution Snake
 
