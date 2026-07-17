@@ -42,7 +42,7 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 
 **Tech Stack:** Python • VAPI • FastAPI • SQLite • Streamlit
 
-🔗 [Repository](https://github.com/Soujuhegde/AI-Research-and-Report-Generation-Agent.git)
+🔗 [Repository](https://github.com/Soujuhegde/AI_VOICE_ASSITANT.git)
 
 
 ## Connect With Me
