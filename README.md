@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=BFE279&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Building+Production-Ready+LLM+Applications;Multi-Agent+Systems+%7C+RAG+%7C+FastAPI;Always+Learning.+Always+Building."/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/soujanya-sp-995a92296"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:spsoujanya02@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Gmail"/></a>&nbsp;&nbsp;
+</p>
+
 ## About Me 
 
 Hi, I'm **Soujanya** — an AI Developer with hands-on experience building intelligent applications using Generative AI, Agentic AI, and Large Language Models (LLMs).
@@ -26,7 +31,6 @@ Production-ready multi-agent AI platform that automates research, planning, repo
 
 🔗 [Repository](https://github.com/Soujuhegde/AI-Research-and-Report-Generation-Agent.git)
 
-
 ### Self-Validating Quantitative Problem Generator
 
 Multi-agent AI application that generates quantitative aptitude questions and validates every solution through independent verification agents, improving reliability and reducing hallucinations in generated content.
@@ -44,10 +48,9 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 
 🔗 [Repository](https://github.com/Soujuhegde/AI_VOICE_ASSITANT.git)
 
+## Tech Stack
 
-## 💻 Tech Stack
-
-### 🤖 AI Engineering & LLMs
+### AI Engineering & LLMs
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -58,7 +61,7 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-E11D48?style=for-the-badge)
 ![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-0EA5E9?style=for-the-badge)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -66,7 +69,7 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 ![REST%20API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Databases, Cloud & Tools
+### Databases, Cloud & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -76,28 +79,13 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soujuhegde&bg_color=0d1117&color=F59E0B&line=EA580C&point=FB923C&area=true&hide_border=true)
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![Snake animation](https://github.com/Soujuhegde/Soujuhegde/blob/output/github-contribution-grid-snake-dark.svg)
 
-## Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/soujanya-sp-995a92296">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/>
-  </a>
-
-   &nbsp;&nbsp;
-
-  <a href="mailto:spsoujanya02@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="38" height="38" alt="Gmail"/>
-  </a>
-</p>
-
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting !
