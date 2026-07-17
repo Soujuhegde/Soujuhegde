@@ -13,8 +13,6 @@
 
 ## Hi, I'm Soujanya S P👋
 
-**AI Engineer | Generative AI | Agentic AI | LLM Engineering**
-
 I'm an AI Engineer passionate about building intelligent applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Python. I enjoy designing AI systems that automate complex workflows, enhance decision-making, and solve real-world problems.
 
 **Core Expertise**
