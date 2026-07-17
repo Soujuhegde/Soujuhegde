@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soujuhegde/Soujuhegde/main/header.gif" width="100%" alt="Soujanya Header Animation"/>
+  <img src="https://raw.githubusercontent.com/Soujuhegde/Soujuhegde/main/github banner 2.png" width="100%" alt="Soujanya Header Animation"/>
 </p>
 
 <p align="center">
