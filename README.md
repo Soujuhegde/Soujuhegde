@@ -88,12 +88,14 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/soujanya-sp-995a92296" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedln/0A66C2" alt="LinkedIn" height="32"/>
+  <a href="https://www.linkedin.com/in/soujanya-sp-995a92296">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+
+   &nbsp;&nbsp;
+
   <a href="mailto:spsoujanya02@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="38" height="38" alt="Gmail"/>
   </a>
 </p>
 
