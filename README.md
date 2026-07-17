@@ -24,7 +24,7 @@ Production-ready multi-agent AI platform that automates research, planning, repo
 
 **Tech Stack:** Python • LangGraph • LangChain • FastAPI • Streamlit • OpenAI
 
-🔗 **Repository** | 📄 **Documentation** | 🎥 **Demo**
+🔗 [Repository](https://github.com/Soujuhegde/AI-Research-and-Report-Generation-Agent.git)
 
 
 ### Self-Validating Quantitative Problem Generator
@@ -33,7 +33,7 @@ Multi-agent AI application that generates quantitative aptitude questions and va
 
 **Tech Stack:** Python • LangGraph • OpenAI • Prompt Engineering
 
-🔗 **Repository** | 📄 **Documentation** | 🎥 **Demo**
+🔗 [Repository](https://github.com/Soujuhegde/AI-Research-and-Report-Generation-Agent.git)
 
 
 ### AI Voice Assistant for Hospital Appointment Management
@@ -42,7 +42,7 @@ Voice-enabled AI assistant that automates hospital appointment scheduling throug
 
 **Tech Stack:** Python • VAPI • FastAPI • SQLite • Streamlit
 
-🔗 **Repository** | 📄 **Documentation** | 🎥 **Demo**
+🔗 [Repository](https://github.com/Soujuhegde/AI-Research-and-Report-Generation-Agent.git)
 
 
 ## Connect With Me
