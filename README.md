@@ -11,20 +11,15 @@
   <a href="mailto:spsoujanya02@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Gmail"/></a>&nbsp;&nbsp;
 </p>
 
-## Hi, I'm Soujanya S P👋
+# Hi, I'm Soujanya S P
+What if AI could do more than just answer?
 
-I'm an AI Engineer passionate about building intelligent applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Python. I enjoy designing AI systems that automate complex workflows, enhance decision-making, and solve real-world problems.
+I am an AI Developer focused on building intelligent systems that can reason, retrieve information, and take action. My work revolves around Generative AI, Agentic AI, LLM applications, RAG, and Python.
 
-**Core Expertise**
-- Agentic AI & Multi-Agent Systems
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- FastAPI & Python Backend Development
-- AI Workflow Automation
-- LangChain & LangGraph
+I enjoy building AI systems that automate complex workflows and solve practical, real-world problems using technologies such as LangChain, LangGraph, and FastAPI.
 
-📍 Bangalore, India  
-💼 Open to AI Engineer & Generative AI opportunities
+Based in Bangalore, India.
+
 
 ## Contribution Snake
 
