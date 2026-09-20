@@ -22,4 +22,10 @@ I take an idea from *"how would this even work"* to a working system that runs e
 
 If you're building production GenAI systems and need someone who can take an agentic workflow from concept to deployment, let's talk.
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Soujuhegde/Soujuhegde/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
 ⭐ Thanks for visiting 
