@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soujuhegde/Soujuhegde/main/github-header-banner" width="100%" alt="Soujanya Header Animation"/>
+  <img src="https://raw.githubusercontent.com/Soujuhegde/Soujuhegde/main/github-header-banner.png" width="100%" alt="Soujanya Header Banner"/>
 </p>
 
 <p align="center">
@@ -7,23 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soujanya-sp-995a92296"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:spsoujanya02@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Gmail"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/soujanyasp02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:spsoujanya02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-# Hi, I'm Soujanya S P
+<h1>Hi, I'm Soujanya S P 👋</h1>
 What if AI could do more than just answer?
 
-I am an AI Developer focused on building intelligent systems that can reason, retrieve information, and take action. My work revolves around Generative AI, Agentic AI, LLM applications, RAG, and Python.
+I'm an **AI Engineer** who builds systems that can reason, retrieve information, and take action — agentic AI, RAG pipelines, and multi-agent architectures that solve real workflow problems, not just prototypes that look good in a demo.
 
-I enjoy building AI systems that automate complex workflows and solve practical, real-world problems using technologies such as LangChain, LangGraph, and FastAPI.
+I take an idea from *"how would this even work"* to a working system that runs end-to-end — and I care about the details that separate a demo from something you can actually ship: validation, guardrails, and reliability.
 
-Based in Bangalore, India.
+📍 Based in Bengaluru, India — open to full-time **AI Engineer / GenAI Engineer / LLM Engineer** roles.
 
+If you're building production GenAI systems and need someone who can take an agentic workflow from concept to deployment, let's talk.
 
-## Contribution Snake
-
-![Snake animation](https://github.com/Soujuhegde/Soujuhegde/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-⭐ Thanks for visiting !
+⭐ Thanks for visiting 
